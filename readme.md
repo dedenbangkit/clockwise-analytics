@@ -1,13 +1,13 @@
-#Clockwise Analytics
+# Clockwise Analytics
 
 Lazy way to analyze your clockwise
 
-##Requirements
+## Requirements
 
 - Python 3.6
 - [Visidata](https://visidata.org/)
 
-##Installation
+## Installation
 
 ```
 $ pip install visidata
@@ -17,7 +17,7 @@ $ chmod +x clockwise.sh
 $ mv clockwise.sh /usr/local/bin/clockwise
 ```
 
-##Usage
+## Usage
 
 ```
 $ export CLOCKWISE="your_clockwise_url" (example: https://secure.clockwise.info/clockwise/loremipsum)
